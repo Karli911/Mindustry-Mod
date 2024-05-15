@@ -1,0 +1,8 @@
+name: "Mindustry Expansion"
+displayName: "You need more?"
+author: "icy404"
+description: "This mod adds extensions and quality of life changes to already implemented and existing features in the game."
+version:"0.1a"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
